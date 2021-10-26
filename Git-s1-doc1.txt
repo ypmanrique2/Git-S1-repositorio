@@ -1,1 +1,2 @@
 # git-semana1-repositorio
+Este texto se mostrará en la presentación del repositorio en GitHub
